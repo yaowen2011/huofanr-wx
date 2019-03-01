@@ -54,7 +54,8 @@ export default class extends wepy.app {
         {
           pagePath: 'pages/category/index',
           text: '分类',
-          iconPath: 'static/imgs/category-icon.png',
+          // iconPath: 'static/imgs/category-icon.png',
+          iconPath: 'static/imgs/category-active.png',
           selectedIconPath: 'static/imgs/category-active.png',
         },
         {

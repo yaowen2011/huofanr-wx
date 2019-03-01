@@ -1,3 +1,6 @@
+# 接口应该是停止维护，项目不能运行
+- 但是这个项目的css写的很好，
+- 模板使用pug，语法比较简洁
 # 活范儿电商微信小程序
 > 使用 wepy + wxParse + sass + pug + async await + zanUI + MinUI 搭建的微信小程序实例项目
 
